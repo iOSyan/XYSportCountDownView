@@ -4,4 +4,4 @@
 ![image](https://github.com/iOSyan/XYSportCountDownView/blob/main/preview.gif?raw=true =100x100)  
 
 
-<img src=https://github.com/iOSyan/XYSportCountDownView/blob/main/preview.gif?raw=true width=60% />
+<img src="https://github.com/iOSyan/XYSportCountDownView/blob/main/preview.gif?raw=true" width=60%>
